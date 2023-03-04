@@ -2,7 +2,7 @@
 
 本人**今年（2023）2月17号**刚刚考完CFA一级，趁现在记忆犹新，写个帖子分享一下心得。**以下所有讨论仅限于CFA一级考试**，关于CFA考试的日期/频率//prerequisites/各个topic的大致内容等 easily googlable 信息我就不再赘述了。这个帖子就是分享一下我对于这个考试的cost/benefits的看法，以及一些备考心得。
 
-##Cost vs. Benefits
+## Cost vs. Benefits
 Cost:
 CFA官网注册费($350, only applicable to level 1)以及考试报名费($900)
 由于官方教材实在太长(仅一级就有3700多页)，所以一般会买第三方教材，比如schweser notes，一级的notes大约有1400来页
@@ -23,13 +23,13 @@ CFA一级讲的基本上都是概念和计算，并不教你实操，实操还�
 很多topics也都是浅尝辄止，仅仅是知道一些基本的知识，细节是完全不记得了
 总的来说，CFA一级，强调的就是一个广度，深度是没多少的
 反正就是，先知道有那么些securities, 等到以后有需要了再去深究
-###总结：
+### 总结：
 作为一个非金融科班出身的人，除非你真的很想去了解金融行业，并且做好了牺牲半年娱乐生活的心理准备，建议别报考CFA一级
 知识密度很大，确实能学到很多东西
 但就算CFA一级学了，考了，过了，你离expert还很远。学的都是基本的概念和计算，实操还得自己练，有深度的知识还得自己挖
 
-##备考时间线以及经验分享（topics highlighted in **bold**）
-###一刷
+## 备考时间线以及经验分享（topics highlighted in **bold**）
+### 一刷
 2022年8月初报名CFA一级，并开始啃官方教材
 官方教材讲的很细，认真看确实可以学到不少，但是废话也挺多，所以总体来说是不怎么值得看的
 8月一整个月，在没有上班的情况下，花了80来个小时才算是把官方教材的**quant**（统计学）部分啃完一大半，连课后习题都没做完
@@ -45,7 +45,7 @@ CFA一级讲的基本上都是概念和计算，并不教你实操，实操还�
 从12月初开始，战略调整为看schewer notes + 官方课后习题，到一月中旬，刷完了**fixed income, derivatives, alternative investments, portfolio management, ethics**
 CFA官方习题有个很棒的feature：每道题都可以link到related course material。即使看notes的时候没学到这个知识点，在做题的时候也可以边做题边学习
 期间也尝试着看notes的视频（而不是直接看text），但尝试之后感觉还是直接看text最高效，notes text看不懂，再去借鉴视频（或官方教材）
-###二刷
+### 二刷
 由于之前**financial statements** 和 **econ** 学的不够扎实，从2023年1月中旬到2月初，花了两周半时间把财报和一半econ的 notes和官方习题过了一遍，econ后面一半实在没时间再看了
 有点后悔花太多时间复习财报了，导致后面的很多东西没时间仔细复习了
 财报的细节很多（比如IFRS 和 GAAP的各种异同），就算花大力复习了，很多东西其实也记不住，还不如快速地大致复习一下
@@ -55,14 +55,14 @@ CFA官方习题有个很棒的feature：每道题都可以link到related course 
 2月13号做了另一个mock，没偷看formula sheet, morning session 67%, afternoon session 74%
 之后就是过一下考试做错了的题目，考前一天火速复习**portfolio management**， **alternative investment**
 为了备考，2月份请了五天假
-###考试
+### 考试
 考试跟官方 mock exam还有点不一样：mock exams questions were grouped by topics, whereas on the actual exam, questions were mixed in order
 Queens 考场提供草稿纸和笔，个人物品放在locker里面，他们会提供锁
 中场休息30分钟；如果morning session提前做完，可以提前开始休息
 比较蛋疼的是，监考员会在考场里面走来走去，kinda distracting
 有一点出乎意料：如果你提早到考场，其实可以提早开始做题的
 没有超常发挥，也没失常，跟做mock的时候一样，猜了一堆题
-###总结
+### 总结
 **看schweser notes + 做官方课后习题**应该是备考一级较为省时高效的备考方略
 个别比较复杂的难题/特别长的公式可以忽略，因为：1）被考到的概率不大；2）就算你暂时掌握了，由于复杂度太高，没过几天你又忘了，有这个功夫还不如去多复习一下难度正常一点的内容
 留出6周左右的时间二刷 + 做模拟考会比较妥，我是只给了自己一个月去复习，确实很赶，很多东西都来不及复习
